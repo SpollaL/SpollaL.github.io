@@ -1,4 +1,4 @@
 title: Luca Spolladore
 logo: /img/logo.png
 show_downloads: false
-remote_theme: agency-jekyll-theme
+theme: jekyll-theme-cayman
