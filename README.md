@@ -1,85 +1,36 @@
-# Data Scientist
+<h1>Hi, I'm Luca Spolladore! <br/><a href="https://github.com/SpollaL">Data Scientist</a>, <a href="https://www.linkedin.com/in/lucaspolladore">Machine Learning Researcher</a></h1>
 
-📍 Madrid, Spain  
-📞 +34 687 20 18 66  
-✉️ [luca.spolladore@outlook.it](mailto:luca.spolladore@outlook.it)  
-[LinkedIn](https://linkedin.com/in/lucaspolladore)
+<h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
 
-## Technical Skills
+- <b>Low-Rate Smart Meter Energy Disaggregation</b>
+  - [Energy Disaggregation Algorithm for Smart Meters](https://github.com/SpollaL/Low-Rate-Energy-Disaggregation)
+  - Developed with Python, Scikit-Learn, and TensorFlow.
+- <b>Symbolic Regression via Genetic Programming for Time Series</b>
+  - [Genetic Programming for Time Series](https://github.com/SpollaL/SRGP-TimeSeries-Analysis)
+- <b>Binary Classification Web App</b>
+  - [Binary Classification Web App](https://github.com/SpollaL/binary_classification_web_app)
+  - A Python-based web app demonstrating a simple classification model.
+- <b>Loan Approval Prediction API</b>
+  - [Loan Approval Prediction API](https://github.com/SpollaL/loan_approval_prediction_API)
+  - Django API to predict loan approvals.
+- <b>Cold Email Generator</b>
+  - [Cold Email Generator](https://github.com/SpollaL/cold_email_generator)
+  - A Python tool for generating email templates.
+- <b>Mortgage Calculator</b>
+  - [Mortgage Calculator](https://github.com/SpollaL/mortgage_calculator)
+  - Built in Java, it calculates mortgage payments.
+
+<h2>📚 Technical Skills:</h2>
 
 - **Programming Languages**: Python, SQL, MATLAB, Java
-- **Deep Learning Frameworks**: TensorFlow, PyTorch
-- **Libraries & Tools**: NumPy, Pandas, Scikit-learn, OpenCV, SciPy, Plotly, Matplotlib, Git, Pipenv, Poetry, Django, Flask
+- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Libraries & Tools**: NumPy, Pandas, OpenCV, SciPy, Plotly, Matplotlib, Git
+- **Frameworks**: Django, Flask
 
----
+<h2> 🤳 Connect with me:</h2>
 
-## Projects
+[<img align="left" alt="Luca Spolladore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Luca Spolladore | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-### Low-rate Smart Meter Energy Disaggregation
-**Duration**: Feb 2023 – Present  
-**Tools & Technologies**: Python, Scikit-Learn, TensorFlow, Pandas
-
-- Developed an energy disaggregation algorithm for low-rate smart meter data.
-- Achieved significant accuracy improvements on a company's internal dataset.
-
-### Symbolic Regression via Genetic Programming (SRGP) for Time Series Analysis
-**Duration**: Nov 2020 – June 2024  
-**Tools & Technologies**: Python, MATLAB
-
-- Built an SRGP algorithm for the mathematical modelling of time series datasets.
-- Published a research paper on this project in the *Evolutionary Computation Journal* by MIT Press [Publication](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven).
-
----
-
-## Experience
-
-### Junior Data Scientist
-**Company**: Voltaware Services Ltd  
-**Location**: Madrid, Spain  
-**Duration**: Feb 2023 – Present  
-
-- Participated in developing an energy disaggregation algorithm for low-rate smart meter data.
-- Implemented and evaluated machine learning models at the core of the energy disaggregation algorithm.
-- Designed an appliance inference algorithm to operate on top of the main disaggregation system.
-
-### Data Science Collaborator
-**Organization**: Laboratorio Nacional de Fusion (CIEMAT)  
-**Location**: Madrid, Spain  
-**Duration**: Jul 2022 – Oct 2022  
-
-- Developed a Computer Vision Disruption Prediction Algorithm for fusion reactor devices using Python and OpenCV.
-- Created a simple, efficient anomaly detection algorithm for predictive analysis.
-- Published a research paper detailing the methodology behind the algorithm [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0920379623000911).
-
----
-
-## Education
-
-- **Ph.D. in Industrial Engineering**  
-  University of Rome Tor Vergata, Rome, Italy  
-  **Duration**: Nov 2020 – June 2024  
-
-- **M.S. in Energy and Nuclear Engineering**  
-  University of Rome Tor Vergata, Rome, Italy  
-  **Duration**: Oct 2017 – May 2020  
-
-- **B.S. in Energy Engineering**  
-  University of Rome Tor Vergata, Rome, Italy  
-  **Duration**: Oct 2014 – May 2018  
-
----
-
-## Certifications
-
-- **Neural Networks and Deep Learning** by DeepLearning.AI
-- **Improving Deep Neural Networks** by DeepLearning.AI
-- **Structuring Machine Learning Projects** by DeepLearning.AI
-- **Django Web Framework** by Meta
-- **APIs** by Meta
-- **Developing AI Applications with Python and Flask** by Meta
-- **Introduction to Databases for Back-End Development** by Meta
-- **Introduction to Back-End Development** by Meta
-- **Build a Machine Learning Web App with Streamlit and Python** by Coursera
-
----
-
+[linkedin]: https://www.linkedin.com/in/lucaspolladore
+[github]: https://github.com/SpollaL
