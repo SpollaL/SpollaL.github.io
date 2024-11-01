@@ -1,16 +1,9 @@
-# Luca Spolladore
+# Data Scientist
 
 📍 Madrid, Spain  
 📞 +34 687 20 18 66  
 ✉️ [luca.spolladore@outlook.it](mailto:luca.spolladore@outlook.it)  
-[LinkedIn](https://linkedin.com/in/lucaspolladore) | [GitHub](https://github.com/SpollaL)
-
----
-
-## Summary
-Passionate Data Scientist with a strong background in Genetic Programming and Machine Learning. Skilled in Python and various ML libraries. Excellent problem-solving, research, and collaboration skills. Seeking a challenging role to contribute to the development of cutting-edge AI solutions.
-
----
+[LinkedIn](https://linkedin.com/in/lucaspolladore)
 
 ## Technical Skills
 
@@ -27,13 +20,13 @@ Passionate Data Scientist with a strong background in Genetic Programming and Ma
 **Tools & Technologies**: Python, Scikit-Learn, TensorFlow, Pandas
 
 - Developed an energy disaggregation algorithm for low-rate smart meter data.
-- Achieved significant accuracy improvements on a company internal dataset.
+- Achieved significant accuracy improvements on a company's internal dataset.
 
 ### Symbolic Regression via Genetic Programming (SRGP) for Time Series Analysis
 **Duration**: Nov 2020 – June 2024  
 **Tools & Technologies**: Python, MATLAB
 
-- Built an SRGP algorithm for mathematical modeling of time series datasets.
+- Built an SRGP algorithm for the mathematical modelling of time series datasets.
 - Published a research paper on this project in the *Evolutionary Computation Journal* by MIT Press [Publication](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven).
 
 ---
@@ -45,7 +38,7 @@ Passionate Data Scientist with a strong background in Genetic Programming and Ma
 **Location**: Madrid, Spain  
 **Duration**: Feb 2023 – Present  
 
-- Participated in the development of an energy disaggregation algorithm for low-rate smart meter data.
+- Participated in developing an energy disaggregation algorithm for low-rate smart meter data.
 - Implemented and evaluated machine learning models at the core of the energy disaggregation algorithm.
 - Designed an appliance inference algorithm to operate on top of the main disaggregation system.
 
@@ -82,7 +75,11 @@ Passionate Data Scientist with a strong background in Genetic Programming and Ma
 - **Improving Deep Neural Networks** by DeepLearning.AI
 - **Structuring Machine Learning Projects** by DeepLearning.AI
 - **Django Web Framework** by Meta
-- **APIs and Developing AI Applications with Python and Flask** by Meta
+- **APIs** by Meta
+- **Developing AI Applications with Python and Flask** by Meta
+- **Introduction to Databases for Back-End Development** by Meta
+- **Introduction to Back-End Development** by Meta
+- **Build a Machine Learning Web App with Streamlit and Python** by Coursera
 
 ---
 
