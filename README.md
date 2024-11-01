@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Science & Machine Learning Projects:</h2>
 
 - <b>Low-Rate Smart Meter Energy Disaggregation</b>
-  - [Energy Disaggregation Algorithm for Smart Meters](https://github.com/SpollaL/Low-Rate-Energy-Disaggregation)
+  - Energy Disaggregation Algorithm for Smart Meters
   - Developed with Python, Scikit-Learn, and TensorFlow.
 - <b>Symbolic Regression via Genetic Programming for Time Series</b>
-  - [Genetic Programming for Time Series](https://github.com/SpollaL/SRGP-TimeSeries-Analysis)
+  - [Genetic Programming for Time Series]([https://github.com/SpollaL/SRGP-TimeSeries-Analysis](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven))
 - <b>Binary Classification Web App</b>
   - [Binary Classification Web App](https://github.com/SpollaL/binary_classification_web_app)
   - A Python-based web app demonstrating a simple classification model.
@@ -15,7 +15,7 @@
   - Django API to predict loan approvals.
 - <b>Cold Email Generator</b>
   - [Cold Email Generator](https://github.com/SpollaL/cold_email_generator)
-  - A Python tool for generating email templates.
+  - A Python tool for generating cold emails.
 - <b>Mortgage Calculator</b>
   - [Mortgage Calculator](https://github.com/SpollaL/mortgage_calculator)
   - Built in Java, it calculates mortgage payments.
