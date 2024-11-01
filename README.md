@@ -78,8 +78,11 @@ Passionate Data Scientist with a strong background in Genetic Programming and Ma
 
 ## Certifications
 
-- **Neural Networks and Deep Learning**; **Improving Deep Neural Networks and Structuring Machine Learning Projects** by DeepLearning.AI
-- **Django Web Framework**; **APIs and Developing AI Applications with Python and Flask** by Meta
+- **Neural Networks and Deep Learning** by DeepLearning.AI
+- **Improving Deep Neural Networks** by DeepLearning.AI
+- **Structuring Machine Learning Projects** by DeepLearning.AI
+- **Django Web Framework** by Meta
+- **APIs and Developing AI Applications with Python and Flask** by Meta
 
 ---
 
