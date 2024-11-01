@@ -32,10 +32,9 @@ Passionate Data Scientist with a strong background in Genetic Programming and Ma
 ### Symbolic Regression via Genetic Programming (SRGP) for Time Series Analysis
 **Duration**: Nov 2020 – June 2024  
 **Tools & Technologies**: Python, MATLAB
-[Publication](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven)
 
 - Built an SRGP algorithm for mathematical modeling of time series datasets.
-- Published a research paper on this project in the *Evolutionary Computation Journal* by MIT Press.
+- Published a research paper on this project in the *Evolutionary Computation Journal* by MIT Press [Publication](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven).
 
 ---
 
@@ -54,11 +53,10 @@ Passionate Data Scientist with a strong background in Genetic Programming and Ma
 **Organization**: Laboratorio Nacional de Fusion (CIEMAT)  
 **Location**: Madrid, Spain  
 **Duration**: Jul 2022 – Oct 2022  
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0920379623000911)
 
 - Developed a Computer Vision Disruption Prediction Algorithm for fusion reactor devices using Python and OpenCV.
 - Created a simple, efficient anomaly detection algorithm for predictive analysis.
-- Published a research paper detailing the methodology behind the algorithm.
+- Published a research paper detailing the methodology behind the algorithm [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0920379623000911).
 
 ---
 
