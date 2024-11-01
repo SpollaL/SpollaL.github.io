@@ -6,9 +6,9 @@
   - Energy Disaggregation Algorithm for Smart Meters
   - Developed with Python, Pandas and Scikit-Learn.
 - <b>Symbolic Regression via Genetic Programming for Time Series</b>
-  - [Genetic Programming for Time Series]([https://github.com/SpollaL/SRGP-TimeSeries-Analysis](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven))
+  - [Genetic Programming for Time Series](https://direct.mit.edu/evco/article-abstract/31/4/401/115844/Upgrades-of-Genetic-Programming-for-Data-Driven)
 - <b>Computer Vision Disruption Prediction for Fusion Reactors</b>
-  - [Anomaly Detection in Fusion Reactors]([https://github.com/SpollaL/Fusion-Reactor-Anomaly-Detection](https://www.sciencedirect.com/science/article/abs/pii/S0920379623000911)
+  - [Anomaly Detection in Fusion Reactors](https://www.sciencedirect.com/science/article/abs/pii/S0920379623000911)
   - Developed using Python and OpenCV, this algorithm predicts disruptions in fusion reactors.
 - <b>Binary Classification Web App</b>
   - [Binary Classification Web App](https://github.com/SpollaL/binary_classification_web_app)
